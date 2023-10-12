@@ -39,8 +39,8 @@ This is a Python-based C compiler for the "Principles of Compilers" course at To
 
 ```bash
 # Example installation steps
-git clone https://github.com/yourusername/your-compiler.git
-cd your-compiler
+git clone https://github.com/LiaoSiyuu/A-C-Like-Compiler.git
+cd A-C-Like-Compiler
 ```
 
 ## Examples
