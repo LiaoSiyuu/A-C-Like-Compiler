@@ -1,6 +1,5 @@
 # A C-Like Compiler
 
-<img src="./img/compiler-logo.png" alt="Compiler Logo" style="zoom:5%;" /> 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
